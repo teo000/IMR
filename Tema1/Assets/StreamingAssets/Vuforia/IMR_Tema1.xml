@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="kafka" size="0.127000 0.204920" />
+    <ImageTarget name="murakami" size="0.110000 0.177657" />
+  </Tracking>
+</QCARConfig>
